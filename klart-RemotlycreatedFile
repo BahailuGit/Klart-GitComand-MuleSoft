@@ -1,0 +1,5 @@
+this file remotelly created for practicing git pull command.
+what clone, it is a git command used to clone/copy the project folder from the remote rpository to our local repository. 
+In order to clone the project, we use git clone followed by the project location link.
+Once the we hit enter we will the see the project name in our local repositort and thus inorder to refer to the cloned project, 
+we need to use cd to change the directory name to the project path, that is cd klart-Gitcommand-MuleSoft then hit enter 
