@@ -1,1 +1,7 @@
 this is for practicing git command for mulesoft related projects. it looks simple, but it requires more practice.
+this is the edited version, just see how git  pull command works in practice. 
+-> Pull command is used pull any new files/any change on existing file from remote repositor to local repositor.
+-> push command is used to push any new or any changes on the existing files from local repositor to remote repositor
+-> commit command is used to make the files ready to push them to remote repository from local repositor
+-> git status is used to the status of files existing in our local repositor, to check if there are any new files or any changes on the existing file which are not pushed to remote repository
+-> git add is used to add any new files or files with any changes for commit 
